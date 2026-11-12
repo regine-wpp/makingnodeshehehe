@@ -1,0 +1,20 @@
+# Keys and Secrets
+keys/
+keys.json
+
+# Environments
+venv/
+env/
+.venv/
+
+# Security (NEVER commit this)
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS generated files
+.DS_Store
